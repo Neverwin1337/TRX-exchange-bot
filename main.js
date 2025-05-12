@@ -12,7 +12,7 @@ const tronWeb = new TronWeb({
 
 // Replace with your bot token from BotFather
 const energy_api = 'api'
-const token = '7379212501:AAGnZc-_gMLLOqoQNP8kGQ4gc7X4Yp2rRDU';
+const token = 'x';
 const bot = new TelegramBot(token, { polling: true });
 
 // Energy rental address
