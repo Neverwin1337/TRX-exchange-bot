@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@api/tron": "file:.api/apis/tron",
+    "axios": "^1.7.9",
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7",
+    "tronweb": "^6.0.0"
+  }
+}
